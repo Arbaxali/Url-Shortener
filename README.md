@@ -8,10 +8,9 @@
 
 **The URL shortener simplifies long URLs into compact links, facilitating easy sharing and enhancing user experience. Users can shorten lengthy URLs to concise links, making them more manageable for sharing via various platforms. 
 
- Achieving this involves generating unique shortened URLs, managing redirection, and providing users with options to edit or delete their shortened links. 
-**
+ Achieving this involves generating unique shortened URLs, managing redirection, and providing users with options to edit or delete their shortened links.**
 
-System Design
+#System Design
 
 ![1714147330580](https://github.com/Arbaxali/Url-Shortener/assets/30619186/5edbf640-d9e6-4bee-b919-8222e618aea9)
 
