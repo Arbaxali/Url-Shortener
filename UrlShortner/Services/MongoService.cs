@@ -17,10 +17,10 @@ namespace UrlShortner.Services
             //var databaseName = "urlshortener";
             //var collectionName = "shortenerCollection";
 
-            var connectionString = "mongodb+srv://arbazaliMongo:PfKKEKtYYNHQYovy@urlshortnercluster.tr3wymk.mongodb.net/";
-            var databaseName = "UrlShortnerDb";
-            var collectionName = "shortenerCollection";
-            var collectionName2 = "visitorsCollection";
+            var connectionString = "Encrypted";
+            var databaseName = "Encrypted";
+            var collectionName = "Encrypted";
+            var collectionName2 = "Encrypted";
 
 
             //Console.WriteLine(connectionString);
