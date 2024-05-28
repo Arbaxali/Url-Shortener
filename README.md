@@ -10,7 +10,7 @@
 
  Achieving this involves generating unique shortened URLs, managing redirection, and providing users with options to edit or delete their shortened links.**
 
-#System Design
+# System Design
 
 ![1714147330580](https://github.com/Arbaxali/Url-Shortener/assets/30619186/5edbf640-d9e6-4bee-b919-8222e618aea9)
 
